@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carbonbot/static/css/main.92dc8d22.css",
+    "main.js": "/carbonbot/static/js/main.c6827366.js",
+    "index.html": "/carbonbot/index.html",
+    "main.92dc8d22.css.map": "/carbonbot/static/css/main.92dc8d22.css.map",
+    "main.c6827366.js.map": "/carbonbot/static/js/main.c6827366.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92dc8d22.css",
+    "static/js/main.c6827366.js"
+  ]
+}

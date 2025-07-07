@@ -1,4 +1,4 @@
-# You can check my website from here: [https://nancyjangra.github.io/carbonbot](https://nancyjangra.github.io/carbonbot)
+# You can check my website from here: (https://nancyjangra.github.io/carbonbot)
 
 # 🌱 CarbonBot – Your AI Sustainability Assistant 🤖💚
 

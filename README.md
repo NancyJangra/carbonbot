@@ -1,5 +1,3 @@
-# You can check my website from here: (https://nancyjangra.github.io/carbonbot)
-
 # 🌱 CarbonBot – Your AI Sustainability Assistant 🤖💚
 
 CarbonBot is a smart, interactive chatbot built using **React** and **Tailwind CSS** that helps users track and reduce their carbon footprint. It uses voice, text, and image inputs to guide individuals toward sustainable choices with engaging features like challenges, recommendations, and community integration.
